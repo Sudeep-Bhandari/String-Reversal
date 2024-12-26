@@ -19,6 +19,11 @@ A Python program that reverses any string input provided by the user. This simpl
 
 ---
 
+## Usage Instructions
+1. Start the script in your terminal.
+2. Enter any string to see its reversed form.
+3. Continue entering strings or type exit to terminate the program.
+
 ## Demo
 
 Run the program to reverse strings interactively from the terminal.  
